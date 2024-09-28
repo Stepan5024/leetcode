@@ -9,6 +9,7 @@
 
 - [1. Two Sum](./problems/twoSum/ex.md)
 - Valid Parentheses
+- 21. Merge Two Sorted Lists
 - [26. Remove Duplicates from Sorted Array](./problems/remove-duplicates-from-sorted-array/)
 - [27. Remove Element](./problems/remove-element/)
 - [169. Majority Element](./problems/majority-element/)
